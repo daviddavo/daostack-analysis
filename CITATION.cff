@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: daviddavo/daostack-analysis
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Davó
+    given-names: David
+    orcid: 'https://orcid.org/0000-0003-1744-8314'
+    email: ddavo@ucm.es
+    affiliation: Complutense University of Madrid
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16420191
+repository-code: 'https://github.com/daviddavo/daostack-analysis'
+license: CC-BY-4.0
