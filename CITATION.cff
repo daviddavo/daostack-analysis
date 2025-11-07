@@ -1,18 +1,26 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: daviddavo/daostack-analysis
-message: 'If you use this software, please cite it as below.'
-type: software
+message: 'If you use this software or data, please cite the paper as below.'
+type: dataset
+title: 'The rise and fall of DAOstack: lessons for decentralized autonomous organizations'
 authors:
   - family-names: Davó
     given-names: David
     orcid: 'https://orcid.org/0000-0003-1744-8314'
-    email: ddavo@ucm.es
-    affiliation: Complutense University of Madrid
+  - family-names: Arroyo
+    given-names: Javier
+  - family-names: Hassan
+    given-names: Samer
+  - family-names: Semenzin
+    given-names: Silvia
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.16420191
+    value: 10.7717/peerj-cs.3320
+    description: 'Published paper DOI'
+journal: 'PeerJ Computer Science'
+volume: 11
+year: 2025
+month: 11
+pages: 'e3320'
+url: 'http://dx.doi.org/10.7717/peerj-cs.3320'
 repository-code: 'https://github.com/daviddavo/daostack-analysis'
 license: CC-BY-4.0
