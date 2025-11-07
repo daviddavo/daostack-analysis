@@ -80,10 +80,18 @@ Data was collected from [DAO-Analyzer](https://dao-analyzer.science).
 If you use this code or data in your research, please cite our paper:
 
 ```bibtex
-@article{davo2024rise,
-  title={The Rise and Fall of DAOstack: Lessons for Decentralized Autonomous Organizations},
-  author={Davó, David and Arroyo, Javier and Hassan, Samer and Semenzin, Silvia},
-  % TO BE PUBLISHED
+@article{Dav2025,
+  title = {The rise and fall of DAOstack: lessons for decentralized autonomous organizations},
+  volume = {11},
+  ISSN = {2376-5992},
+  url = {http://dx.doi.org/10.7717/peerj-cs.3320},
+  DOI = {10.7717/peerj-cs.3320},
+  journal = {PeerJ Computer Science},
+  publisher = {PeerJ},
+  author = {Davó,  David and Arroyo,  Javier and Hassan,  Samer and Semenzin,  Silvia},
+  year = {2025},
+  month = nov,
+  pages = {e3320}
 }
 ```
 
